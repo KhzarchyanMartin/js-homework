@@ -148,7 +148,19 @@ console.log(res);
 
 
 //9
+/*
+let strpr= prompt("Muqagrel Barer: ");
+let subpr = prompt("Mutqagrel bar man galu hamar:");
+let str = strpr;
+let substr = subpr;
+function Str(str, substr) {
+  return str.includes(substr);
+}
 
+let res = Str(str , substr);
+
+console.log(res);
+*/
 
 //10
 /*
